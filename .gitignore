@@ -1,0 +1,15 @@
+# casas.js contiene las coordenadas de las casas (domicilios de anfitriones).
+# NO debe subirse: GitHub Pages es público. El sitio solo lo carga desde localhost o file://.
+# Lo genera `python run.py` desde la raíz del proyecto.
+casas.js
+
+# Capturas y artefactos de pruebas con navegador
+.playwright-mcp/
+_s*.png
+*.log
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+config.bat
+node_modules

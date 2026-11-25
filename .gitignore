@@ -13,3 +13,7 @@ _s*.png
 Thumbs.db
 config.bat
 node_modules
+# Proteccion de credenciales locales (Metrix Clean 4.0)
+.env
+.env.*
+!.env.example
